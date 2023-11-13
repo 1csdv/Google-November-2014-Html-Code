@@ -1,2 +1,17 @@
-# Google-Feb-2009-Html-Code
-Fr
+<head><script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app201.us.archive.org';v.server_ms=375;archive_analytics.send_pageview({});});</script>
+<script type="text/javascript" src="//web-static.archive.org/_static/js/bundle-playback.js?v=6otLFMce" charset="utf-8"></script>
+<script type="text/javascript" src="//web-static.archive.org/_static/js/wombat.js?v=txqj7nKC" charset="utf-8"></script>
+<script>window.RufflePlayer=window.RufflePlayer||{};window.RufflePlayer.config={"autoplay":"on","unmuteOverlay":"hidden"};</script>
+<script type="text/javascript" src="//web-static.archive.org/_static/js/ruffle.js"></script>
+<script type="text/javascript">
+  __wm.init("https://web.archive.org/web");
+  __wm.wombat("http://www.google.com/","20090201005707","https://web.archive.org/","web","//web-static.archive.org/_static/",
+	      "1233449827");
+</script>
+<link rel="stylesheet" type="text/css" href="//web-static.archive.org/_static/css/banner-styles.css?v=S1zqJCYt">
+<link rel="stylesheet" type="text/css" href="//web-static.archive.org/_static/css/iconochive.css?v=qtvMKcIJ">
+<!-- End Wayback Rewrite JS Include -->
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"><title>Google</title><script>var _gjwl=location;function _gjuc(){var a=_gjwl.hash;if(a.indexOf("&q=")>0||a.indexOf("#q=")>=0){a=a.substring(1);if(a.indexOf("#")==-1){for(var c=0;c<a.length;){var d=c;if(a.charAt(d)=="&")++d;var b=a.indexOf("&",d);if(b==-1)b=a.length;var e=a.substring(d,b);if(e.indexOf("fp=")==0){a=a.substring(0,c)+a.substring(b,a.length);b=c}else if(e=="cad=h")return 0;c=b}_gjwl.href="search?"+a+"&cad=h";return 1}}return 0};
+window._gjuc && location.hash && _gjuc();</script><style>body,td,a,p,.h{font-family:arial,sans-serif}.h{color:#36c;font-size:20px}.q{color:#00c}.ts td{padding:0}.ts{border-collapse:collapse}#gbar{height:22px;padding-left:2px}.gbh,.gbd{border-top:1px solid #c9d7f1;font-size:1px}.gbh{height:0;position:absolute;top:24px;width:100%}#gbi,#gbs{background:#fff;left:0;position:absolute;top:24px;visibility:hidden;z-index:1000}#gbi{border:1px solid;border-color:#c9d7f1 #36c #36c #a2bae7;z-index:1001}#guser{padding-bottom:7px !important}#gbar,#guser{font-size:13px;padding-top:1px !important}@media all{.gb1,.gb3{height:22px;margin-right:.73em;vertical-align:top}#gbar{float:left}}.gb2{display:block;padding:.2em .5em}a.gb1,a.gb2,a.gb3{color:#00c !important}.gb2,.gb3{text-decoration:none}a.gb2:hover{background:#36c;color:#fff !important}</style><script>window.google={kEI:"Y_OESYXFDKDaswP0hJDxDQ",kEXPI:"17259,17315",kHL:"en"};
+google.y={};google.x=function(e,g){google.y[e.id]=[e,g];return false};window.gbar={};(function(){var b=window.gbar,f,h;b.qs=function(a){var c=window.encodeURIComponent&&(document.forms[0].q||"").value;if(c)a.href=a.href.replace(/([?&])q=[^&]*|$/,function(i,g){return(g||"&")+"q="+encodeURIComponent(c)})};function j(a,c){a.visibility=h?"hidden":"visible";a.left=c+"px"}b.tg=function(a){a=a||window.event;var c=0,i,g=window.navExtra,d=document.getElementById("gbi"),e=a.target||a.srcElement;a.cancelBubble=true;if(!f){f=document.createElement(Array.every||window.createPopup?"iframe":"div");f.frameBorder="0";f.src="#";d.parentNode.appendChild(f).id="gbs";if(g)for(i in g)d.insertBefore(g[i],d.firstChild).className="gb2";document.onclick=b.close}if(e.className!="gb3")e=e.parentNode;do c+=e.offsetLeft;while(e=e.offsetParent);j(d.style,c);f.style.width=d.offsetWidth+"px";f.style.height=d.offsetHeight+"px";j(f.style,c);h=!h};b.close=function(a){h&&b.tg(a)}})();</script><script src="/web/20090201005707js_/http://www.google.com/extern_js/f/CgJlbhICdXMrMAo4DSwrMA44BCwrMBg4Ayw/oTKXc0xdkmY.js"></script><style></style></head>
